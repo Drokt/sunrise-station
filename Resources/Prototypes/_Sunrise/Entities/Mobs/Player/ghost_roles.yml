@@ -206,7 +206,7 @@
     pocket1: LanternFlash
     pocket2: ClothingHandsPowerGlovesUplinkNTERTRed
   inhand:
-  - WeaponShotgunKammerer
+  - WeaponShotgunEnforcer
   storage:
     back:
     - BoxErtBaseKit
