@@ -1,17 +1,18 @@
-reagent-name-aphrodisiac = Афродизиак
+reagent-name-aphrodisiac = афродизиак
 reagent-desc-aphrodisiac = Вещество, которое усиливает возбуждение или удовольствие.
-reagent-physical-desc-aphrodisiac = Мерцающая, рубиново-красная жидкость, мягко светящаяся на свету.
-reagent-name-honkpower = Мощь хонка
-reagent-desc-honkpower = Хохохонк
+
+reagent-name-honkpower = мощь хонка
+reagent-desc-honkpower = хохохонк
 reagent-flavor-honkpower = Как смех хонкоматери
-reagent-physical-desc-honkpower = Дрожащее
-reagent-physical-desc-strong-smell = Сильно пахнущее
+
 reagent-name-nastoyka-romashki = настойка ромашки
 reagent-desc-nastoyka-romashki = Лепестки ромашки настояные в спирте.
-reagent-name-celliminol = Целлиминол
+
+reagent-name-celliminol = целлиминол
 reagent-desc-celliminol = Химикат криогенного действия. Мощный химикат разработанный компанией. Работает только на живых.
-reagent-name-grcoffee = Измельченный кофе
+
+reagent-name-grcoffee = измельченный кофе
 reagent-desc-grcoffee = Измельченные зерна кофе.
-reagent-physical-desc-grcoffee = Коричневая жидкость, слегка густоватая.
+
 reagent-name-inc = чернила
 reagent-desc-inc = чернила
