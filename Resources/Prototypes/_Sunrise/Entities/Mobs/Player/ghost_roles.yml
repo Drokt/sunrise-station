@@ -196,10 +196,10 @@
     jumpsuit: ClothingUniformJumpsuitERTChaplain
     back: ClothingBackpackERTChaplain
     shoes: ClothingShoesBootsMagSec
-    head: ClothingHeadEVAHelmetERTNewChaplain
+    head: ClothingHeadEVAHelmetERTChaplain
     mask: ClothingMaskGasERT
     eyes: ClothingEyesHudMedSec
-    outerClothing: ClothingOuterArmorAmberNewChap
+    outerClothing: ClothingOuterHardsuitERTChaplain
     id: ERTChaplainPDA
     ears: ClothingHeadsetAltCentComSunrise
     belt: ClothingBeltSecurityFilledERT
